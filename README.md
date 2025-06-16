@@ -10,7 +10,7 @@ https://github.com/jbmsantos0398/MEUSITEUNICO/archive/refs/heads/main.zip
 <BR/>https://wa.me/+5585988885153?text=SANTOS%20QUERO%20DIZER%20QUE%20
 
 <HR/>Copie o link e envie para um amigo
-<BR/>https://wa.me/?text=Link do site. - https://jbmsantos0398.github.io/MEUSITEUNICO/
+<BR/>https://wa.me/?text=https://jbmsantos0398.github.io/MEUSITEUNICO/
 
 
 <HR/>
